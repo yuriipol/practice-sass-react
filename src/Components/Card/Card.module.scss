@@ -1,0 +1,15 @@
+.containerCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  width: 320px;
+}
+.image {
+  object-fit: cover;
+}
+.discription {
+  color: red;
+  text-transform: uppercase;
+}
